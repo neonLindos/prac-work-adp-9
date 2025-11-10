@@ -4,5 +4,5 @@
 
 ## Задания
 
-- [Задание 1](prac-work-adp-9/Task1)
-- [Задание 2](prac-work-adp-9/Task2)
+- [Задание 1](prac-work-adp-9/task1)
+- [Задание 2](prac-work-adp-9/task2)
